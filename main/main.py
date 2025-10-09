@@ -1,6 +1,6 @@
 # importing necessary modules
 
-from random_picker import get_random_movie_by_genre
+from moviePicker.main.random_picker import get_random_movie_by_genre
 
 
 def main():

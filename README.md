@@ -16,10 +16,15 @@ v2.0
 
 4. New functionality: Search movies by genre
 
+v2.1
+1. Splitted code on files
+2. Upgrade readabilitty
+3. Organized directory
+
+
                 PLANS
-    1. Split code to different files
-    2. refactor
-    3. Search by actors,years
+    1. Search by actors,years and etc.
+    
 
 Changes was made all by myself,rarely using qwen.ai for debugging and exceptions
 
